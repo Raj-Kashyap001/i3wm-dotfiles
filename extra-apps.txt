@@ -1,0 +1,7 @@
+kew - music player.
+calcurses - calendar app.
+cava - visualizer.
+bpytop/vtop - system resource monitor.
+fastfetch - sytem info
+nvim  - text editor
+
