@@ -227,7 +227,7 @@ exec --no-startup-id nitrogen --restore
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # autotiling
-exec_always --no-startup-id autotiling -w 1 3 5 7 9
+# exec_always --no-startup-id autotiling -w 1 3 5 7 9
 
 
 # open files 

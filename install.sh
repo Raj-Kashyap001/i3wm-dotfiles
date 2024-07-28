@@ -40,4 +40,8 @@ copy_configs "dotfiles"
 
 echo "Note: I've changed keybindings for quitting window to Mod+q in i3. You can modify it in the i3/config file."
 
+echo "To make polybar modules work make sure to make theme executable by this command chmod +x ~/.config/polybar/*.sh" 
+
 echo "Installation complete."
+
+
