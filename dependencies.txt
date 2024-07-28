@@ -1,4 +1,5 @@
-kew - music player.
+nitrogen - wallpaper manager.
+kew - for music player.
 calcurses - calendar app.
 cava - visualizer.
 bpytop/vtop - system resource monitor.
