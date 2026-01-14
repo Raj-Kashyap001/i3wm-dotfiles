@@ -1,5 +1,9 @@
 <h1 align="center">My i3wm + picom + rofi dotfiles</h1>
 
+> ### 🛑 DEPRECATED
+> This repository has been superseded by [i3wm-dotfiles-v2](https://github.com/Raj-Kashyap001/i3wm-dotfiles-v2). 
+> No further updates will be provided.
+
 ## Preview
 
 <img src='./sample-image.png'>
